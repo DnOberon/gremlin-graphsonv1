@@ -3,6 +3,7 @@
   "version": "0.0.21",
   "description": "A GraphSONv1 Writer/Reader for the Gremlin JavaScript package",
   "main": "index.js",
+  "homepage": "https://github.com/DnOberon/gremlin-graphsonv1",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
