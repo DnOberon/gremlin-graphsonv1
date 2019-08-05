@@ -1,6 +1,6 @@
 {
   "name": "gremlin-graphsonv1",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "A GraphSONv1 Writer/Reader for the Gremlin JavaScript package",
   "main": "index.js",
   "homepage": "https://github.com/DnOberon/gremlin-graphsonv1",
