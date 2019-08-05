@@ -1,0 +1,14 @@
+{
+  "name": "gremlin-graphsonv1",
+  "version": "0.0.21",
+  "description": "A GraphSONv1 Writer/Reader for the Gremlin JavaScript package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Darrington",
+  "license": "ISC",
+  "dependencies": {
+    "gremlin": "^3.4.2"
+  }
+}
